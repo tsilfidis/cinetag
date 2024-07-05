@@ -5,3 +5,7 @@
     padding: 1.1em 20em;
     background-color: var(--preto);
 }
+
+.cabecalho img:hover {
+    scale: 102%;
+}

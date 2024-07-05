@@ -1,3 +1,6 @@
-h1 {
-    text-align: center;
+.container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 32px;
 }
