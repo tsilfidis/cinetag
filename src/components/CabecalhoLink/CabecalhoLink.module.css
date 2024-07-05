@@ -1,0 +1,15 @@
+.link {
+    color: var(--branco);
+    font-size: 18px;
+    font-weight: 400;
+    padding: 1em;
+    text-decoration: none;
+}
+
+.link:hover {
+    font-size: 18.5px;
+}
+
+img:hover {
+    scale: 102%;
+}

@@ -1,0 +1,31 @@
+.rodape {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--preto);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    box-sizing: border-box;
+     
+}
+
+.rodape h2 {
+    font-weight: 400;
+    font-size: 18px;
+    color: var(--branco);
+}
+
+.rodape a {
+    text-decoration: none;
+    color: var(--branco);
+}
+
+.rodape a:hover {
+    font-size: 18.5px;
+    background-color: var(--chubo);
+    border-radius: 2px;
+    padding: 0.5px;
+    
+}
